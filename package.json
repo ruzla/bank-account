@@ -1,0 +1,22 @@
+{
+  "name": "bank-account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruzla/bank-account.git"
+  },
+  "author": "Russell Parry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruzla/bank-account/issues"
+  },
+  "homepage": "https://github.com/ruzla/bank-account#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
